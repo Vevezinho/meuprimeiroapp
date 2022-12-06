@@ -1,1 +1,1 @@
-Olá como usar o Git.
+Como usar o Git.
